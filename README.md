@@ -15,7 +15,10 @@ Andy Papadopoulos and Liav Meoded Stern
 **Hypothesis:** Cyclone Debbie will cause significant changes in chlorophyll-a concentrations, turbidity and water temperature along its path
 
 ## Analysis:
-**Data used**: eReef [biogeochemical dataset]([url](https://thredds.ereefs.aims.gov.au/thredds/catalog/ereefs/GBR4_H2p0_B3p1_Cq3b_Dhnd.html?dataset=GBR4_H2p0_B3p1_Cq3b_Dhnd-daily)) in 4km resolution and the [path]([url](http://www.bom.gov.au/cyclone/history/tracks/beta/)) of Cyclone Debbie from the Bureau of Meteorology (BOM). 
+**Data used**: 
+eReef biogeochemical dataset in 4km resolution: (https://thredds.ereefs.aims.gov.au/thredds/catalog/ereefs/GBR4_H2p0_B3p1_Cq3b_Dhnd.html?dataset=GBR4_H2p0_B3p1_Cq3b_Dhnd-daily)
+
+The path of Cyclone Debbie from the Bureau of Meteorology (BOM): (http://www.bom.gov.au/cyclone/history/tracks/beta/)
 
 The planned analysis:
 
