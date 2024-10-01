@@ -7,6 +7,7 @@ Andy Papadopoulos and Liav Meoded Stern
 
 ## Research Questions and Hypothesis 
 **Research Questions:**
+
 (1) What is the impact of Cyclone Debbie on water temperature, primary production and turbidity?
 
 (2) What is the extent of this impact? i.e., what is the envalope of these variables during the cyclonic activity, and afterwards?
