@@ -10,7 +10,7 @@ Andy Papadopoulos and Liav Meoded Stern
 
 (1) What is the impact of Cyclone Debbie on water temperature, primary production and turbidity?
 
-(2) What is the extent of this impact? i.e., what is the envalope of these variables during the cyclonic activity, and afterwards?
+(2) What is the extent of this impact? i.e., what is the envelope of these variables during the cyclonic activity, and afterwards?
 
 **Hypothesis:** Cyclone Debbie will cause significant changes in chlorophyll-a concentrations, turbidity and water temperature along its path
 
