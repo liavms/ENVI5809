@@ -28,4 +28,4 @@ The planned analysis:
 
 (3) **Variables' envelope**: generate graphs of the maximum, minimum and mean values of Sea Surface Temperatures, chlorophyll-a and turbidity (as Secchi). 
 
-(4) **Baseline comparison:** comparing the variables' envelopes that were found in the previous steps to the monthly averages values of March 2016, March 2017 and March 2018. 
+(4) **Comparison to non-cyclone conditions:** comparing the variables' envelopes that were found in the previous steps to the monthly averages values of March 2016, March 2017 and March 2018. 
