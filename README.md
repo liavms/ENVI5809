@@ -3,7 +3,7 @@ Andy Papadopoulos and Liav Meoded Stern
 
 ## The impacts of Cyclone Debbie on the Great Barrier Reef
 **Main Objective**: the main aim of the analysis is to investigate the spatio-temporal impacts of cyclone Debbie (2017) on oceanographic parameters that are significant for coral health, to better understand the immediate impacts on coral reefs. 
-**Parameters that were examined**: Sea Surface Temperature, Chlorophyll-a and water clarity as a Secchi measurement. 
+**Parameters that were examined**: Sea Surface Temperature, Chlorophyll-a and water clarity as a Secchi disk depth. 
 
 ## Research Questions and Hypothesis 
 **Research Questions:**
